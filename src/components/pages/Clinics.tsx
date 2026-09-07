@@ -12,7 +12,7 @@ export default function ClinicsPage({ onEnquireClick }: ClinicsPageProps) {
       <section className="relative py-24 px-6 md:px-12 bg-brand-dark text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/public/assets/images/covered_arena_clinic_1788478551562.jpg" 
+            src="/assets/images/covered_arena_clinic_1788478551562.jpg" 
             alt="Groundwork lesson with focus and connection" 
             className="w-full h-full object-cover filter brightness-[0.38] contrast-[1.05]"
             referrerPolicy="no-referrer"
@@ -150,7 +150,7 @@ export default function ClinicsPage({ onEnquireClick }: ClinicsPageProps) {
         <div className="bg-brand-primary text-white rounded-sm p-10 md:p-12 relative overflow-hidden border border-brand-secondary/25">
           <div className="absolute inset-0 z-0">
             <img 
-              src="/public/assets/images/dressage_chestnut_arena_1788478530930.jpg" 
+              src="/assets/images/dressage_chestnut_arena_1788478530930.jpg" 
               alt="Horses in a paddock behaving naturally" 
               className="w-full h-full object-cover opacity-15 filter grayscale"
               referrerPolicy="no-referrer"

@@ -12,7 +12,7 @@ export default function EquineMirrorPage({ onEnquireClick }: EquineMirrorPagePro
       <section className="relative py-24 px-6 md:px-12 bg-brand-dark text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/public/assets/images/founders_beach_horse_1788478486991.jpg" 
+            src="/assets/images/founders_beach_horse_1788478486991.jpg" 
             alt="Pip Easton and Francois Ignatius standing together in natural surroundings" 
             className="w-full h-full object-cover filter brightness-[0.38] contrast-[1.05] object-top"
             referrerPolicy="no-referrer"
@@ -83,7 +83,7 @@ export default function EquineMirrorPage({ onEnquireClick }: EquineMirrorPagePro
           <div className="lg:col-span-5">
             <div className="border border-brand-border p-3 bg-white rounded-sm shadow-sm relative">
               <img 
-                src="/public/assets/images/pip_hugging_horse_1788478505449.jpg" 
+                src="/assets/images/pip_hugging_horse_1788478505449.jpg" 
                 alt="Pip Easton standing with her horse, listening and interacting" 
                 className="w-full h-full object-cover rounded-sm grayscale-[15%] hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"

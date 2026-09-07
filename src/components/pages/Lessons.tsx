@@ -12,7 +12,7 @@ export default function LessonsPage({ onEnquireClick }: LessonsPageProps) {
       <section className="relative py-24 px-6 md:px-12 bg-brand-dark text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/public/assets/images/dressage_chestnut_arena_1788478530930.jpg" 
+            src="/assets/images/dressage_chestnut_arena_1788478530930.jpg" 
             alt="Chestnut horse performing dressage with perfect biomechanics" 
             className="w-full h-full object-cover filter brightness-[0.38] contrast-[1.05]"
             referrerPolicy="no-referrer"
@@ -97,7 +97,7 @@ export default function LessonsPage({ onEnquireClick }: LessonsPageProps) {
           <div className="lg:col-span-6">
             <div className="border border-brand-border p-3 bg-white rounded-sm shadow-sm">
               <img 
-                src="/public/assets/images/pip_hugging_horse_1788478505449.jpg" 
+                src="/assets/images/pip_hugging_horse_1788478505449.jpg" 
                 alt="Pip Easton riding a bay horse with refined, light contact" 
                 className="w-full aspect-4/3 object-cover rounded-sm grayscale-[15%] hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
@@ -157,7 +157,7 @@ export default function LessonsPage({ onEnquireClick }: LessonsPageProps) {
           <div className="lg:col-span-6 lg:order-1">
             <div className="border border-brand-border p-3 bg-white rounded-sm shadow-sm">
               <img 
-                src="/public/assets/images/covered_arena_clinic_1788478551562.jpg" 
+                src="/assets/images/covered_arena_clinic_1788478551562.jpg" 
                 alt="Francois Ignatius performing hoofcare and groundwork" 
                 className="w-full aspect-4/3 object-cover rounded-sm grayscale-[15%] hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
