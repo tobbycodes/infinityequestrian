@@ -38,7 +38,7 @@ export default function AboutPage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-5 border border-brand-border p-3 bg-white rounded-sm shadow-sm">
             <img 
-              src="/public/assets/images/pip_hugging_horse_1788478505449.jpg" 
+              src="/assets/images/pip_hugging_horse_1788478505449.jpg" 
               alt="Pip Easton standing calmly next to her horse" 
               className="w-full aspect-5/6 object-cover rounded-sm grayscale-[15%] hover:grayscale-0 transition-all duration-700"
               referrerPolicy="no-referrer"
