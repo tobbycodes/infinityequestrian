@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Equestrian",
+  "description": "Redesigned digital front desk for Infinity Equestrian on the Sunshine Coast, QLD. Empowering riders and horse owners to develop confidence, self-leadership, and conscious connection through dressage, jumping, groundwork, and float training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
