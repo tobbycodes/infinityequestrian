@@ -50,7 +50,7 @@ export default function HomePage({
         {/* Full-bleed background image with sophisticated dual gradients */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="/src/assets/images/body_whisperer_rope_halter_1788481515314.jpg"
+            src="/assets/images/body_whisperer_rope_halter_1788481515314.jpg"
             alt="Gentle horseman calmly connecting with a dark bay horse in a blue halter" 
             className="w-full h-full object-cover object-center scale-[1.01] filter brightness-[0.38] contrast-[1.05]"
             referrerPolicy="no-referrer"

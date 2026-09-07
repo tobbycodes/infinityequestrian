@@ -8,7 +8,7 @@ export default function AboutPage() {
       <section className="relative py-24 px-6 md:px-12 bg-brand-dark text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/src/assets/images/founders_beach_horse_1788478486991.jpg" 
+            src="/assets/images/founders_beach_horse_1788478486991.jpg" 
             alt="Pip Easton and Francois Ignatius standing together" 
             className="w-full h-full object-cover filter brightness-[0.38] contrast-[1.05] object-top"
             referrerPolicy="no-referrer"
@@ -38,7 +38,7 @@ export default function AboutPage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-5 border border-brand-border p-3 bg-white rounded-sm shadow-sm">
             <img 
-              src="/src/assets/images/pip_hugging_horse_1788478505449.jpg" 
+              src="/assets/images/pip_hugging_horse_1788478505449.jpg" 
               alt="Pip Easton standing calmly next to her horse" 
               className="w-full aspect-5/6 object-cover rounded-sm grayscale-[15%] hover:grayscale-0 transition-all duration-700"
               referrerPolicy="no-referrer"
@@ -61,7 +61,7 @@ export default function AboutPage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center lg:flex-row-reverse">
           <div className="lg:col-span-5 lg:order-2 border border-brand-border p-3 bg-white rounded-sm shadow-sm">
             <img 
-              src="/src/assets/images/covered_arena_clinic_1788478551562.jpg" 
+              src="/assets/images/covered_arena_clinic_1788478551562.jpg" 
               alt="Francois Ignatius performing horse training" 
               className="w-full aspect-5/6 object-cover rounded-sm grayscale-[15%] hover:grayscale-0 transition-all duration-700"
               referrerPolicy="no-referrer"

@@ -102,7 +102,7 @@ export default function Header({
         >
           <div className={`w-11 h-11 rounded-sm border bg-[#0b1528] overflow-hidden flex items-center justify-center shadow-md transition-all duration-300 ${isLightStyle ? "border-brand-border group-hover:border-brand-secondary" : "border-white/20 group-hover:border-white"}`}>
             <img 
-              src="/src/assets/images/infinity_logo_1788471531048.jpg" 
+              src="/assets/images/infinity_logo_1788471531048.jpg" 
               alt="Infinity Equestrian Logo" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

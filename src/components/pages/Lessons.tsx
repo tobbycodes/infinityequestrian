@@ -12,7 +12,7 @@ export default function LessonsPage({ onEnquireClick }: LessonsPageProps) {
       <section className="relative py-24 px-6 md:px-12 bg-brand-dark text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/src/assets/images/dressage_chestnut_arena_1788478530930.jpg" 
+            src="/assets/images/dressage_chestnut_arena_1788478530930.jpg" 
             alt="Chestnut horse performing dressage with perfect biomechanics" 
             className="w-full h-full object-cover filter brightness-[0.38] contrast-[1.05]"
             referrerPolicy="no-referrer"

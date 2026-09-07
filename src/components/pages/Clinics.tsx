@@ -12,7 +12,7 @@ export default function ClinicsPage({ onEnquireClick }: ClinicsPageProps) {
       <section className="relative py-24 px-6 md:px-12 bg-brand-dark text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/src/assets/images/covered_arena_clinic_1788478551562.jpg" 
+            src="/assets/images/covered_arena_clinic_1788478551562.jpg" 
             alt="Groundwork lesson with focus and connection" 
             className="w-full h-full object-cover filter brightness-[0.38] contrast-[1.05]"
             referrerPolicy="no-referrer"

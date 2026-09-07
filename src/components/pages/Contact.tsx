@@ -15,7 +15,7 @@ export default function ContactPage({ selectedServiceId, onServiceSelect }: Cont
       <section className="relative py-24 px-6 md:px-12 bg-brand-dark text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/src/assets/images/founders_beach_horse_1788478486991.jpg" 
+            src="/assets/images/founders_beach_horse_1788478486991.jpg" 
             alt="Sunshine Coast equestrian training location" 
             className="w-full h-full object-cover filter brightness-[0.38] contrast-[1.05] object-center"
             referrerPolicy="no-referrer"

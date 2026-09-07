@@ -30,7 +30,7 @@ export default function Footer() {
           <div className="flex items-center gap-3">
             <div className="w-12 h-12 rounded-sm border border-brand-border bg-[#0b1528] overflow-hidden flex items-center justify-center shadow-md">
               <img 
-                src="/src/assets/images/infinity_logo_1788471531048.jpg" 
+                src="/assets/images/infinity_logo_1788471531048.jpg" 
                 alt="Infinity Equestrian Logo" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

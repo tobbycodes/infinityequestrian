@@ -12,7 +12,7 @@ export default function LifeCoachingPage({ onEnquireClick }: LifeCoachingPagePro
       <section className="relative py-24 px-6 md:px-12 bg-brand-dark text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/src/assets/images/founders_beach_horse_1788478486991.jpg" 
+            src="/assets/images/founders_beach_horse_1788478486991.jpg" 
             alt="Pip Easton standing peacefully next to a horse in nature" 
             className="w-full h-full object-cover filter brightness-[0.38] contrast-[1.05]"
             referrerPolicy="no-referrer"
@@ -51,7 +51,7 @@ export default function LifeCoachingPage({ onEnquireClick }: LifeCoachingPagePro
           <div className="lg:col-span-5">
             <div className="border border-brand-border p-3 bg-white rounded-sm shadow-sm">
               <img 
-                src="/src/assets/images/pip_hugging_horse_1788478505449.jpg" 
+                src="/assets/images/pip_hugging_horse_1788478505449.jpg" 
                 alt="Pip Easton - Master Mindset Coach" 
                 className="w-full aspect-5/6 object-cover rounded-sm grayscale-[15%] hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
