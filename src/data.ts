@@ -34,7 +34,7 @@ export const SERVICES_DATA: Service[] = [
       }
     ],
     ctaText: "Acquire Foundation Access",
-    image: "/src/assets/images/groundwork_denim_jacket_1788481530999.jpg"
+    image: "/assets/images/groundwork_denim_jacket_1788481530999.jpg"
   },
   {
     id: "zen-float-loading",
@@ -69,7 +69,7 @@ export const SERVICES_DATA: Service[] = [
       }
     ],
     ctaText: "Enquire for Float Loading",
-    image: "/src/assets/images/float_loading_training_1788478572590.jpg"
+    image: "/assets/images/float_loading_training_1788478572590.jpg"
   },
   {
     id: "barefoot-trimming",
@@ -104,7 +104,7 @@ export const SERVICES_DATA: Service[] = [
       }
     ],
     ctaText: "Inquire for Barefoot Trimming",
-    image: "/src/assets/images/barefoot_trimming_hoofcare_1788481593716.jpg"
+    image: "/assets/images/barefoot_trimming_hoofcare_1788481593716.jpg"
   },
   {
     id: "equissage-massage-therapy",
@@ -139,7 +139,7 @@ export const SERVICES_DATA: Service[] = [
       }
     ],
     ctaText: "Book Equissage Therapy",
-    image: "/src/assets/images/equissage_massage_bodywork_1788481608800.jpg"
+    image: "/assets/images/equissage_massage_bodywork_1788481608800.jpg"
   },
   {
     id: "ridden-lessons-equitation",
@@ -174,7 +174,7 @@ export const SERVICES_DATA: Service[] = [
       }
     ],
     ctaText: "Schedule a Ridden Lesson",
-    image: "/src/assets/images/classical_lessons_arena_1788481544258.jpg"
+    image: "/assets/images/classical_lessons_arena_1788481544258.jpg"
   },
   {
     id: "mindset-life-coaching",
@@ -209,7 +209,7 @@ export const SERVICES_DATA: Service[] = [
       }
     ],
     ctaText: "Book a Mindset Consultation",
-    image: "/src/assets/images/pip_hugging_horse_1788478505449.jpg"
+    image: "/assets/images/pip_hugging_horse_1788478505449.jpg"
   },
   {
     id: "equine-assisted-therapy",
@@ -244,7 +244,7 @@ export const SERVICES_DATA: Service[] = [
       }
     ],
     ctaText: "Inquire about Equine Therapy",
-    image: "/src/assets/images/founders_beach_horse_1788478486991.jpg"
+    image: "/assets/images/founders_beach_horse_1788478486991.jpg"
   }
 ];
 
